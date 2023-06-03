@@ -12,6 +12,7 @@ Projeto com dados sobre a quantidade de mortes no mundo e no Brasil por COVID-19
 Com base no gráfico de mapa(choropleth) que representa as mortes por COVID-19 por país, é de facil percepção que os Estados Unidos, Brasil e Índia são os países que mais foram impactados por essa doença. Essas nações enfrentaram um alto número de óbitos relacionados à COVID-19, refletindo um impacto significativo que a pandemia teve nessas regiões.
 Além disso, é possível observar que a maior parte do mundo foi afetada pela doença, evidenciando a natureza global da pandemia.
 Obs: A visualização desse mapa na execução do código é melhor, pois há interação.
+
 ![Mapa - Mortes por País](img/choropleth_mapa.png)
 ---
 ### Barras:
