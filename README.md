@@ -1,3 +1,2 @@
-# Python-DataAndVisualization
-Projetos em python com processamento de dados e visualizações.
-teste
+# COVID-19
+## Projeto em Python para mostrar a quantidade de mortes no planeta por covid-19
